@@ -40,3 +40,5 @@ public class HelloWorld extends HttpServlet {
 	}
 
 }
+//서블릿 설정하는것
+//webapp=>web-lnf->web.xml 에서의 14~22 까지의 부분은 주소요약하는것

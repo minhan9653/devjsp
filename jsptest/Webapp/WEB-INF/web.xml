@@ -19,7 +19,6 @@
   <servlet-mapping>
   <servlet-name>HelloWorld</servlet-name>
   <url-pattern>/hw</url-pattern>
-  </servlet-mapping>
-  
+  </servlet-mapping> 
   
 </web-app>
