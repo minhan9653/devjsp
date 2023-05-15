@@ -1,0 +1,2 @@
+JSP0515_3 번은 html에서 Post방식으로 전송하는것 안에 
+WebContent랑  Src 아래에 있는 두가지
