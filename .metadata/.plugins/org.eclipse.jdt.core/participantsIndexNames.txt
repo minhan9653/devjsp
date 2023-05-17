@@ -3,5 +3,13 @@ C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2360376245.inde
 \HelloWorld2\src
 C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4184762599.index
 \HelloWorld\src
+C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2080742070.index
+\Jsp0517\src
+C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2709280710.index
+\Jsp0517_03\src
+C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\987306921.index
+\Jsp0517_02\src
 C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\360442470.index
 \Jsp0516_4\src
+C:\dev\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3588537929.index
+\Jsp0517_04\src
